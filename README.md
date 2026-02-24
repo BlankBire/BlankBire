@@ -3,21 +3,16 @@
 </div>
 
 <h3 align="center">
-  Exploring the depths of Cyber Security & Blockchain. <br>
+  Exploring the depths of Cyber Security and Blockchain Technology. <br>
   Bridging the gap between cutting-edge innovation and rock-solid secure solutions.
 </h3>
 
-<!--
-**BlankBire/BlankBire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🔭 I’m currently working on **Cyber Security and Blockchain Technology**, specifically developing a static analysis extension for Solidity or an obfuscation tool for smart contracts.
+- 🌱 I’m currently learning advanced **Smart Contract Auditing**, **Cryptography** and **Web Application Security**.
+- 👯 I’m looking to collaborate on **Open-source security tools/Blockchain projects**.
+- 🤔 I’m looking for help with optimizing **static analysis algorithms** (improving Precision and Recall).
+- 💬 Ask me about **Blockchain Security**, **Cryptography** or **Web Development**.
+- 📫 You can reach me at **nguyenhuucanhnc2005@gmail.com**.
+- 😄 Pronouns: You can call me **Bire**.
+- ⚡ Fun fact: When I'm not auditing smart contracts, I'm probably exploring modded biomes in Minecraft or passionately cheering for Die Mannschaft (the German national team)! 🏆
