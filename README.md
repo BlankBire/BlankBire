@@ -75,3 +75,9 @@ Ultimately, my sights are set on becoming a **Blockchain Security Auditor** and 
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </div>
+
+## 🎮 Gaming
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/Minecraft-5A8D4F?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+  <img src="https://img.shields.io/badge/EA_FC_Mobile-050505?style=for-the-badge&logo=ea&logoColor=white" alt="EA FC Mobile" />
+</p>
