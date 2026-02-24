@@ -62,3 +62,9 @@ Ultimately, my sights are set on becoming a **Blockchain Security Auditor** and 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlankBire&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=557C94" alt="Bire's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankBire&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
