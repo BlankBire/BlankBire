@@ -21,3 +21,12 @@
 - **University of Information Technology – VNUHCM (UIT)**.
   - Bachelor’s Degree in Information Security (Expected 2027).
   - Focus on: Cyber Security, Blockchain Technology, Cryptography and Web Development.
+
+## 🎯 My Trajectory
+I believe that the future of the web relies on impenetrable architecture. That's why I'm channeling my energy into **Blockchain Security** and **Cyber Security**. I want to be the person who bridges the gap between complex cryptographic theory and safe, real-world Web3 applications.
+Here is what I am actively focusing on to get there:
+- Crafting proactive defense mechanisms, specifically through smart contract obfuscation and advanced static analysis.
+- Immersing myself in **Smart Contract Auditing** to catch critical flaws that automated tools might miss.
+- Pushing the boundaries of automated security by optimizing algorithms for maximum Precision and Recall.
+- Collaborating on open-source projects that make the digital space safer for everyone.
+Ultimately, my sights are set on becoming a **Blockchain Security Auditor** and **Security Researcher** - helping to lay the foundation for a trustless, attack-proof digital future.
