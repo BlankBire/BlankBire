@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Bire!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
 <!--
 **BlankBire/BlankBire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
