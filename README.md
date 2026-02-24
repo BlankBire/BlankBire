@@ -16,3 +16,8 @@
 - 📫 You can reach me at **nguyenhuucanhnc2005@gmail.com**.
 - 😄 Pronouns: You can call me **Bire**.
 - ⚡ Fun fact: When I'm not auditing smart contracts, I'm probably exploring modded biomes in Minecraft or passionately cheering for Die Mannschaft (the German national team)! 🏆
+
+## 🎓 Education
+- **University of Information Technology – VNUHCM (UIT)**.
+  - Bachelor’s Degree in Information Security (Expected 2027).
+  - Focus on: Cyber Security, Blockchain Technology, Cryptography and Web Development.
